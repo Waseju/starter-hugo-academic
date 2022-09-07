@@ -1,6 +1,6 @@
 ---
 role: PhD Student in Precision Medicine and Genomics
-avatar_filename: avatar.png
+avatar_filename: avatar.jpg
 bio: My research interests include genomics, polygenic risk scores and machine
   learning
 interests:
