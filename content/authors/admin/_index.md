@@ -39,4 +39,4 @@ highlight_name: true
 title: Julian Wanner
 email: ""
 ---
-I am a doctoral student in Precision Medicine and Genomics at the Hasso-Plattner-Institute, advised by [](https://uni-tuebingen.de/en/faculties/faculty-of-science/departments/computer-science/lehrstuehle/methods-of-machine-learning/personen/philipp-hennig/)Henrike Heyne. My research focuses on genomics and polygenic risk scores.
+I am a doctoral student in Precision Medicine and Genomics at the Hasso-Plattner-Institute, advised by [](https://uni-tuebingen.de/en/faculties/faculty-of-science/departments/computer-science/lehrstuehle/methods-of-machine-learning/personen/philipp-hennig/)Henrike Heyne. My research focuses on genomics and polygenic risk scores. s
