@@ -22,7 +22,7 @@ content:
       id:
     netlify:
       # Enable CAPTCHA challenge to reduce spam?
-      captcha: true
+      captcha: false
 
   # Contact details (edit or remove options as required)
   phone: +49-(0)331 5509-4817
