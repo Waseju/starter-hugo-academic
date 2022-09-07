@@ -27,8 +27,7 @@ content:
   # Contact details (edit or remove options as required)
   phone: +49-(0)331 5509-4817
   address:
-    region: HPI Digital Health Center
-    street: Rudolf-Breitscheid-Straße 187
+    street: HPI Digital Health Center, Rudolf-Breitscheid-Straße 187
     postcode: '14482'
     city: Potsdam
     country: Germany
