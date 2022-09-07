@@ -25,13 +25,13 @@ content:
       captcha: true
 
   # Contact details (edit or remove options as required)
-  email: julian.wanner@hpi.de
   phone: +49-(0)331 5509-4817
   address:
+    institute: Hasso-Plattner-Institute
+    building: Digital Health Center
     street: Rudolf-Breitscheid-Straße 187
-    city: Potsdam
-    region: Brandenburg
     postcode: '14482'
+    city: Potsdam
     country: Germany
     country_code: DE
   coordinates:
@@ -39,7 +39,7 @@ content:
     longitude: '13.124862913989888'
   room: G-2.2.12/13
   office_hours:
-   - 'by appointment'
+   - 'Office hours by appointment'
   # appointment_url: 'https://calendly.com'
 design:
   columns: '2'
