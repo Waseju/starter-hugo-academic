@@ -27,8 +27,7 @@ content:
   # Contact details (edit or remove options as required)
   phone: +49-(0)331 5509-4817
   address:
-    institute: Hasso-Plattner-Institute
-    building: Digital Health Center
+    region: HPI Digital Health Center
     street: Rudolf-Breitscheid-Straße 187
     postcode: '14482'
     city: Potsdam
