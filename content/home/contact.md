@@ -38,20 +38,9 @@ content:
     latitude: '52.39481974285049'
     longitude: '13.124862913989888'
   room: G-2.2.12/13
-  # office_hours:
-  #  - 'Monday 10:00 to 13:00'
-  #  - 'Wednesday 09:00 to 10:00'
+  office_hours:
+   - 'by appointment'
   # appointment_url: 'https://calendly.com'
-  contact_links:
-    - icon: twitter
-      icon_pack: fab
-      name: DM Me
-      link: 'https://twitter.com/Twitter'
-    - icon: video
-      icon_pack: fas
-      name: Zoom Me
-      link: 'https://zoom.com'
-
 design:
   columns: '2'
 ---
