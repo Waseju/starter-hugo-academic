@@ -3,7 +3,8 @@ role: PhD Student in Precision Medicine and Genomics
 bio: My research interests include genomics, polygenic risk scores and machine
   learning
 interests:
-  - Genomics and Polygenic Risk Scores
+  - Genomics
+  - Polygenic Risk Scores
 social:
   - icon: envelope
     icon_pack: fas
