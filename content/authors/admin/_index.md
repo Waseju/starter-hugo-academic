@@ -1,6 +1,6 @@
 ---
 role: PhD Student in Precision Medicine and Genomics
-avatar_filename: https://media-exp1.licdn.com/dms/image/C4E03AQFda7me_4gOxA/profile-displayphoto-shrink_200_200/0/1639474346941?e=1668038400&v=beta&t=rVDvYBlsPhAFW4MQHgVFAEJN33Z_ZxV_20FnBXVkyX0
+avatar_filename: julian-wanner.png
 bio: My research interests include genomics, polygenic risk scores and machine
   learning
 interests:
