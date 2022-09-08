@@ -26,7 +26,7 @@ content:
 
   # Contact details (edit or remove options as required)
   email: julian.wanner@hpi.de
-  phone: +49-(0)331 5509-4817
+  phone: +49 331 5509 4817
   address:
     street: HPI Digital Health Center, Rudolf-Breitscheid-Straße 187
     city: 14482 Potsdam
