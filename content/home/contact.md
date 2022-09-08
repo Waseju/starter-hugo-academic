@@ -29,7 +29,7 @@ content:
   address:
     street: HPI Digital Health Center, Rudolf-Breitscheid-Straße 187
     city: 14482, Potsdam
-    region: 
+    region: Germany
     country: Germany
     country_code: DE
   coordinates:
