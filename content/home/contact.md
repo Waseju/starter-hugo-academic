@@ -28,13 +28,14 @@ content:
   phone: +49-(0)331 5509-4817
   address:
     street: HPI Digital Health Center, Rudolf-Breitscheid-Straße 187
-    city: 14482, Potsdam
+    city: '14482'
+    region: Potsdam
     country: Germany
     country_code: DE
   coordinates:
     latitude: '52.39481974285049'
     longitude: '13.124862913989888'
-  room: G-2.2.12/13
+  directions: G-2.2.12/13
   office_hours:
    - 'Office hours by appointment'
   # appointment_url: 'https://calendly.com'
