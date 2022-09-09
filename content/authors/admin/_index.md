@@ -35,7 +35,7 @@ education:
       institution: University of Tübingen
       year: 2018
     - course: B. Sc. and M.Sc. Studies in Computer Science with a focus on machine
-        learning
+        learning.
       year: ""
       institution: University of Tübingen
 superuser: true
