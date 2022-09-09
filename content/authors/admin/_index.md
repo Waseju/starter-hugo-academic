@@ -31,9 +31,12 @@ education:
     - course: M. Sc. in Nano-Science
       institution: University of Tübingen
       year: 2021
-    - course: BSc in Nano-Science
+    - course: B.Sc. in Nano-Science
       institution: University of Tübingen
       year: 2018
+    - course: B. Sc. and M.Sc. Studies in Computer Science
+      year: ""
+      institution: University of Tübingen
 superuser: true
 highlight_name: true
 title: Julian Wanner
